@@ -1,0 +1,1 @@
+<?php echo "Hola, este es el archivo de formas de pago para cuentas por cobrar."; ?>
